@@ -18,8 +18,8 @@ const images = [
   },
   {
     src: "https://media.geeksforgeeks.org/wp-content/uploads/20211213172226/3.png",
-    alt: "Image 3",
-    captionTitle: "Image 3",
+    alt: "Three Image",
+    captionTitle: "Three Image",
     captionText: "Image 3 from GeeksforGeeks without 403 Error Protection"
   }
 ];
